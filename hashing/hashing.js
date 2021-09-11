@@ -2,6 +2,8 @@
 
 var crypto = require("crypto");
 
+//This is my version
+
 // The Power of a Smile
 // by Tupac Shakur
 var poem = [
